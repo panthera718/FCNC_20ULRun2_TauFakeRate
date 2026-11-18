@@ -1,0 +1,67 @@
+dataset:
+    Run2017.DoubleEG:
+        /DoubleEG/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleEG.Run2017F-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /DoubleEG/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleEG.Run2017D-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /DoubleEG/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleEG.Run2017C-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /DoubleEG/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleEG.Run2017B-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /DoubleEG/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleEG.Run2017E-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+    Run2017.SingleElectron:
+        /SingleElectron/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleElectron.Run2017B-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /SingleElectron/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleElectron.Run2017D-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /SingleElectron/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleElectron.Run2017C-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /SingleElectron/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleElectron.Run2017E-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /SingleElectron/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleElectron.Run2017F-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+    Run2017.DoubleMuon:
+        /DoubleMuon/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleMuon.Run2017D-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /DoubleMuon/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleMuon.Run2017B-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /DoubleMuon/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleMuon.Run2017E-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /DoubleMuon/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleMuon.Run2017C-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /DoubleMuon/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/DoubleMuon.Run2017F-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+    Run2017.SingleMuon:
+        /SingleMuon/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleMuon.Run2017C-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /SingleMuon/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleMuon.Run2017B-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /SingleMuon/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleMuon.Run2017F-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /SingleMuon/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleMuon.Run2017E-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /SingleMuon/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/SingleMuon.Run2017D-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+    Run2017.MuonEG:
+        /MuonEG/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/MuonEG.Run2017B-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /MuonEG/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/MuonEG.Run2017C-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /MuonEG/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/MuonEG.Run2017F-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /MuonEG/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/MuonEG.Run2017E-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /MuonEG/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/MuonEG.Run2017D-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+    Run2017.Tau:
+        /Tau/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/Tau.Run2017F-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /Tau/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/Tau.Run2017D-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /Tau/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/Tau.Run2017B-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD
+        /Tau/Run2017E-UL2017_MiniAODv2_NanoAODv9-v2/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/Tau.Run2017E-UL2017_MiniAODv2_NanoAODv9-v2.NANOAOD
+        /Tau/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/Tau.Run2017C-UL2017_MiniAODv2_NanoAODv9-v1.NANOAOD

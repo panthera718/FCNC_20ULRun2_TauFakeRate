@@ -1,0 +1,19 @@
+dataset:
+    MC2017.ST_FCNC-TLL_zct:
+        /ST_FCNC-TLL_Tleptonic_kappa_zct_TuneCP5-madgraph-pythia8/RunIISummer20UL17NanoAODv9-tauDecays_106X_mc2017_realistic_v9-v2/NANOAODSIM:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/ST_FCNC-TLL_Tleptonic_kappa_zct_TuneCP5-madgraph-pythia8.RunIISummer20UL17NanoAODv9-tauDecays_106X_mc2017_realistic_v9-v2.NANOAODSIM
+    MC2017.ST_FCNC-TLL_zut:
+        /ST_FCNC-TLL_Tleptonic_kappa_zut_TuneCP5-madgraph-pythia8/RunIISummer20UL17NanoAODv9-tauDecays_106X_mc2017_realistic_v9-v3/NANOAODSIM:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/ST_FCNC-TLL_Tleptonic_kappa_zut_TuneCP5-madgraph-pythia8.RunIISummer20UL17NanoAODv9-tauDecays_106X_mc2017_realistic_v9-v3.NANOAODSIM
+    MC2017.TT_FCNC-T2ZJ_zct:
+        /TT_FCNC-T2ZJ_aTleptonic_ZToll_kappa_zct_TuneCP5-madgraphMLM-pythia8/RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v2/NANOAODSIM:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/TT_FCNC-T2ZJ_aTleptonic_ZToll_kappa_zct_TuneCP5-madgraphMLM-pythia8.RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v2.NANOAODSIM
+    MC2017.TT_FCNC-aT2ZJ_zct:
+        /TT_FCNC-aT2ZJ_Tleptonic_ZToll_kappa_zct_TuneCP5-madgraphMLM-pythia8/RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v2/NANOAODSIM:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/TT_FCNC-aT2ZJ_Tleptonic_ZToll_kappa_zct_TuneCP5-madgraphMLM-pythia8.RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v2.NANOAODSIM
+    MC2017.TT_FCNC-T2ZJ_zut:
+        /TT_FCNC-T2ZJ_aTleptonic_ZToll_kappa_zut_TuneCP5-madgraphMLM-pythia8/RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v1/NANOAODSIM:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/TT_FCNC-T2ZJ_aTleptonic_ZToll_kappa_zut_TuneCP5-madgraphMLM-pythia8.RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v1.NANOAODSIM
+    MC2017.TT_FCNC-aT2ZJ_zut:
+        /TT_FCNC-aT2ZJ_Tleptonic_ZToll_kappa_zut_TuneCP5-madgraphMLM-pythia8/RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v2/NANOAODSIM:
+        - /cms/ldap_home/yhoonlee/FCNCforApproval/TopLeptonMVA/FCNC_RemakeNANOAOD/CMSSW_10_2_25/src/RunIISummer20UL17NanoAODv9/reco/NANOAOD/TT_FCNC-aT2ZJ_Tleptonic_ZToll_kappa_zut_TuneCP5-madgraphMLM-pythia8.RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v2.NANOAODSIM
